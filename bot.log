@@ -1,0 +1,683 @@
+nohup: ignoring input
+2025-12-03 11:13:56 vpnvadim.aeza.network database[120508] INFO ✅ Database tables created
+2025-12-03 11:13:56 vpnvadim.aeza.network __main__[120508] INFO ✅ Database initialized
+2025-12-03 11:13:56 vpnvadim.aeza.network __main__[120508] INFO ✅ Admin status updated in database
+2025-12-03 11:13:56 vpnvadim.aeza.network handlers[120508] INFO ✅ Handlers setup completed
+2025-12-03 11:13:56 vpnvadim.aeza.network __main__[120508] INFO ✅ Handlers registered
+2025-12-03 11:13:56 vpnvadim.aeza.network __main__[120508] INFO ℹ️  Starting bot...
+2025-12-03 11:13:56 vpnvadim.aeza.network aiogram.dispatcher[120508] INFO Start polling
+2025-12-03 11:13:56 vpnvadim.aeza.network __main__[120508] WARNING ⚠️ Subscription check error: 'User' object has no attribute 'vless_profile_data'
+2025-12-03 11:13:56 vpnvadim.aeza.network aiogram.dispatcher[120508] INFO Run polling for bot @kodikivpn_bot id=8442093912 - 'KODIKI - Доступ к программам обучения'
+2025-12-03 11:14:01 vpnvadim.aeza.network handlers[120508] INFO ℹ️  Start command from 7569139197
+2025-12-03 11:14:01 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803312 is handled. Duration 86 ms by bot id=8442093912
+2025-12-03 11:14:04 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803313 is handled. Duration 107 ms by bot id=8442093912
+2025-12-03 11:14:38 vpnvadim.aeza.network handlers[120508] INFO ℹ️  Start command from 418678845
+2025-12-03 11:14:38 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803314 is handled. Duration 45 ms by bot id=8442093912
+2025-12-03 11:14:45 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803315 is handled. Duration 201 ms by bot id=8442093912
+2025-12-03 11:14:55 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803316 is handled. Duration 123 ms by bot id=8442093912
+2025-12-03 11:14:58 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803317 is handled. Duration 61 ms by bot id=8442093912
+2025-12-03 11:15:53 vpnvadim.aeza.network functions[120508] INFO ℹ️  Trying login to http://85.192.26.36:8080/eWaOoqgUCezndPKXkz/login with user: Nck4vyaD6R
+2025-12-03 11:15:53 vpnvadim.aeza.network functions[120508] INFO ✅ Login successful
+2025-12-03 11:15:53 vpnvadim.aeza.network functions[120508] INFO ℹ️  Getting inbound data from: http://85.192.26.36:8080/eWaOoqgUCezndPKXkz/panel/api/inbounds/get/1
+2025-12-03 11:15:53 vpnvadim.aeza.network functions[120508] INFO ℹ️  Updating inbound at: http://85.192.26.36:8080/eWaOoqgUCezndPKXkz/panel/api/inbounds/update/1
+2025-12-03 11:15:53 vpnvadim.aeza.network database[120508] INFO ✅ VLESS profile saved for 418678845
+2025-12-03 11:15:53 vpnvadim.aeza.network handlers[120508] INFO ✅ Profile created for 418678845 on device Windows PC
+2025-12-03 11:15:53 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803318 is handled. Duration 432 ms by bot id=8442093912
+2025-12-03 11:16:19 vpnvadim.aeza.network functions[120508] INFO ℹ️  Trying login to http://85.192.26.36:8080/eWaOoqgUCezndPKXkz/login with user: Nck4vyaD6R
+2025-12-03 11:16:19 vpnvadim.aeza.network functions[120508] INFO ✅ Login successful
+2025-12-03 11:16:19 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803319 is handled. Duration 117 ms by bot id=8442093912
+2025-12-03 11:16:22 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803320 is handled. Duration 40 ms by bot id=8442093912
+2025-12-03 11:16:23 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803321 is handled. Duration 102 ms by bot id=8442093912
+2025-12-03 11:16:26 vpnvadim.aeza.network functions[120508] INFO ℹ️  Trying login to http://85.192.26.36:8080/eWaOoqgUCezndPKXkz/login with user: Nck4vyaD6R
+2025-12-03 11:16:26 vpnvadim.aeza.network functions[120508] INFO ✅ Login successful
+2025-12-03 11:16:26 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803322 is handled. Duration 101 ms by bot id=8442093912
+2025-12-03 11:16:28 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803323 is handled. Duration 108 ms by bot id=8442093912
+2025-12-03 11:16:55 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803324 is handled. Duration 110 ms by bot id=8442093912
+2025-12-03 11:17:58 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803325 is handled. Duration 119 ms by bot id=8442093912
+2025-12-03 11:18:03 vpnvadim.aeza.network functions[120508] INFO ℹ️  Trying login to http://85.192.26.36:8080/eWaOoqgUCezndPKXkz/login with user: Nck4vyaD6R
+2025-12-03 11:18:03 vpnvadim.aeza.network functions[120508] INFO ✅ Login successful
+2025-12-03 11:18:03 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803326 is handled. Duration 97 ms by bot id=8442093912
+2025-12-03 11:18:05 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803327 is handled. Duration 45 ms by bot id=8442093912
+2025-12-03 11:18:06 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803328 is handled. Duration 179 ms by bot id=8442093912
+2025-12-03 12:13:56 vpnvadim.aeza.network __main__[120508] WARNING ⚠️ Subscription check error: 'User' object has no attribute 'vless_profile_data'
+2025-12-03 12:32:25 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803329 is handled. Duration 129 ms by bot id=8442093912
+2025-12-03 12:32:28 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803330 is handled. Duration 106 ms by bot id=8442093912
+2025-12-03 12:32:29 vpnvadim.aeza.network functions[120508] INFO ℹ️  Trying login to http://85.192.26.36:8080/eWaOoqgUCezndPKXkz/login with user: Nck4vyaD6R
+2025-12-03 12:32:30 vpnvadim.aeza.network functions[120508] INFO ✅ Login successful
+2025-12-03 12:32:30 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803331 is handled. Duration 108 ms by bot id=8442093912
+2025-12-03 12:32:31 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803332 is handled. Duration 46 ms by bot id=8442093912
+2025-12-03 12:32:32 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803333 is handled. Duration 98 ms by bot id=8442093912
+2025-12-03 13:13:56 vpnvadim.aeza.network __main__[120508] WARNING ⚠️ Subscription check error: 'User' object has no attribute 'vless_profile_data'
+2025-12-03 13:30:29 vpnvadim.aeza.network handlers[120508] INFO ℹ️  Start command from 1377895531
+2025-12-03 13:30:29 vpnvadim.aeza.network database[120508] INFO ✅ New user created: 1377895531
+2025-12-03 13:30:31 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803334 is handled. Duration 2134 ms by bot id=8442093912
+2025-12-03 13:30:47 vpnvadim.aeza.network handlers[120508] INFO ℹ️  Start command from 1377895531
+2025-12-03 13:30:47 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803335 is not handled. Duration 1 ms by bot id=8442093912
+2025-12-03 13:30:47 vpnvadim.aeza.network aiogram.event[120508] ERROR Cause exception while process update id=10803335 by bot id=8442093912
+IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:30:47.851265', '2025-12-06 13:30:47.850665', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.IntegrityError: UNIQUE constraint failed: users.telegram_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/root/vad1mus-vpn-kodiki/src/handlers.py", line 118, in start_cmd
+    user = await create_user(
+  File "/root/vad1mus-vpn-kodiki/src/database.py", line 76, in create_user
+    session.commit()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 2032, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1313, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1288, in _prepare_impl
+    self.session.flush()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4345, in flush
+    self._flush(objects)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4480, in _flush
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4441, in _flush
+    flush_context.execute()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1413, in execute
+    return meth(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1635, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1840, in _execute_context
+    return self._exec_single_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1980, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 2349, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:30:47.851265', '2025-12-06 13:30:47.850665', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-03 13:30:59 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803336 is not handled. Duration 0 ms by bot id=8442093912
+2025-12-03 13:31:09 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803337 is handled. Duration 75 ms by bot id=8442093912
+2025-12-03 13:31:14 vpnvadim.aeza.network handlers[120508] INFO ℹ️  Start command from 1377895531
+2025-12-03 13:31:14 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803338 is not handled. Duration 1 ms by bot id=8442093912
+2025-12-03 13:31:14 vpnvadim.aeza.network aiogram.event[120508] ERROR Cause exception while process update id=10803338 by bot id=8442093912
+IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:31:14.346136', '2025-12-06 13:31:14.345447', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.IntegrityError: UNIQUE constraint failed: users.telegram_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/root/vad1mus-vpn-kodiki/src/handlers.py", line 153, in menu_cmd
+    await start_cmd(message, bot)
+  File "/root/vad1mus-vpn-kodiki/src/handlers.py", line 118, in start_cmd
+    user = await create_user(
+  File "/root/vad1mus-vpn-kodiki/src/database.py", line 76, in create_user
+    session.commit()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 2032, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1313, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1288, in _prepare_impl
+    self.session.flush()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4345, in flush
+    self._flush(objects)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4480, in _flush
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4441, in _flush
+    flush_context.execute()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1413, in execute
+    return meth(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1635, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1840, in _execute_context
+    return self._exec_single_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1980, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 2349, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:31:14.346136', '2025-12-06 13:31:14.345447', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-03 13:37:10 vpnvadim.aeza.network handlers[120508] INFO ℹ️  Start command from 1377895531
+2025-12-03 13:37:10 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803339 is not handled. Duration 2 ms by bot id=8442093912
+2025-12-03 13:37:10 vpnvadim.aeza.network aiogram.event[120508] ERROR Cause exception while process update id=10803339 by bot id=8442093912
+IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:37:10.457543', '2025-12-06 13:37:10.455328', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.IntegrityError: UNIQUE constraint failed: users.telegram_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/root/vad1mus-vpn-kodiki/src/handlers.py", line 118, in start_cmd
+    user = await create_user(
+  File "/root/vad1mus-vpn-kodiki/src/database.py", line 76, in create_user
+    session.commit()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 2032, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1313, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1288, in _prepare_impl
+    self.session.flush()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4345, in flush
+    self._flush(objects)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4480, in _flush
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4441, in _flush
+    flush_context.execute()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1413, in execute
+    return meth(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1635, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1840, in _execute_context
+    return self._exec_single_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1980, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 2349, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:37:10.457543', '2025-12-06 13:37:10.455328', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-03 13:53:58 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803340 is handled. Duration 152 ms by bot id=8442093912
+2025-12-03 13:54:17 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803341 is handled. Duration 54 ms by bot id=8442093912
+2025-12-03 13:54:20 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803342 is handled. Duration 168 ms by bot id=8442093912
+2025-12-03 13:54:32 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803343 is handled. Duration 113 ms by bot id=8442093912
+2025-12-03 13:54:36 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803344 is handled. Duration 42 ms by bot id=8442093912
+2025-12-03 13:54:38 vpnvadim.aeza.network functions[120508] INFO ℹ️  Trying login to http://85.192.26.36:8080/eWaOoqgUCezndPKXkz/login with user: Nck4vyaD6R
+2025-12-03 13:54:38 vpnvadim.aeza.network functions[120508] INFO ✅ Login successful
+2025-12-03 13:54:38 vpnvadim.aeza.network functions[120508] INFO ℹ️  Getting inbound data from: http://85.192.26.36:8080/eWaOoqgUCezndPKXkz/panel/api/inbounds/get/1
+2025-12-03 13:54:38 vpnvadim.aeza.network functions[120508] INFO ℹ️  Updating inbound at: http://85.192.26.36:8080/eWaOoqgUCezndPKXkz/panel/api/inbounds/update/1
+2025-12-03 13:54:38 vpnvadim.aeza.network database[120508] INFO ✅ VLESS profile saved for 7569139197
+2025-12-03 13:54:38 vpnvadim.aeza.network handlers[120508] INFO ✅ Profile created for 7569139197 on device iPhone
+2025-12-03 13:54:38 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803345 is handled. Duration 223 ms by bot id=8442093912
+2025-12-03 13:55:42 vpnvadim.aeza.network handlers[120508] INFO ℹ️  Start command from 1377895531
+2025-12-03 13:55:42 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803346 is not handled. Duration 1 ms by bot id=8442093912
+2025-12-03 13:55:42 vpnvadim.aeza.network aiogram.event[120508] ERROR Cause exception while process update id=10803346 by bot id=8442093912
+IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:55:42.638854', '2025-12-06 13:55:42.638150', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.IntegrityError: UNIQUE constraint failed: users.telegram_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/root/vad1mus-vpn-kodiki/src/handlers.py", line 118, in start_cmd
+    user = await create_user(
+  File "/root/vad1mus-vpn-kodiki/src/database.py", line 76, in create_user
+    session.commit()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 2032, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1313, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1288, in _prepare_impl
+    self.session.flush()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4345, in flush
+    self._flush(objects)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4480, in _flush
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4441, in _flush
+    flush_context.execute()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1413, in execute
+    return meth(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1635, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1840, in _execute_context
+    return self._exec_single_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1980, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 2349, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:55:42.638854', '2025-12-06 13:55:42.638150', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-03 13:55:52 vpnvadim.aeza.network handlers[120508] INFO ℹ️  Start command from 1377895531
+2025-12-03 13:55:52 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803347 is not handled. Duration 1 ms by bot id=8442093912
+2025-12-03 13:55:52 vpnvadim.aeza.network aiogram.event[120508] ERROR Cause exception while process update id=10803347 by bot id=8442093912
+IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:55:52.077441', '2025-12-06 13:55:52.076859', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.IntegrityError: UNIQUE constraint failed: users.telegram_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/root/vad1mus-vpn-kodiki/src/handlers.py", line 153, in menu_cmd
+    await start_cmd(message, bot)
+  File "/root/vad1mus-vpn-kodiki/src/handlers.py", line 118, in start_cmd
+    user = await create_user(
+  File "/root/vad1mus-vpn-kodiki/src/database.py", line 76, in create_user
+    session.commit()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 2032, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1313, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1288, in _prepare_impl
+    self.session.flush()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4345, in flush
+    self._flush(objects)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4480, in _flush
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4441, in _flush
+    flush_context.execute()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1413, in execute
+    return meth(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1635, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1840, in _execute_context
+    return self._exec_single_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1980, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 2349, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:55:52.077441', '2025-12-06 13:55:52.076859', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-03 13:55:55 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803348 is handled. Duration 85 ms by bot id=8442093912
+2025-12-03 13:56:09 vpnvadim.aeza.network handlers[120508] INFO ℹ️  Start command from 1377895531
+2025-12-03 13:56:09 vpnvadim.aeza.network aiogram.event[120508] INFO Update id=10803349 is not handled. Duration 1 ms by bot id=8442093912
+2025-12-03 13:56:09 vpnvadim.aeza.network aiogram.event[120508] ERROR Cause exception while process update id=10803349 by bot id=8442093912
+IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:56:09.865794', '2025-12-06 13:56:09.865263', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.IntegrityError: UNIQUE constraint failed: users.telegram_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/root/vad1mus-vpn-kodiki/src/handlers.py", line 153, in menu_cmd
+    await start_cmd(message, bot)
+  File "/root/vad1mus-vpn-kodiki/src/handlers.py", line 118, in start_cmd
+    user = await create_user(
+  File "/root/vad1mus-vpn-kodiki/src/database.py", line 76, in create_user
+    session.commit()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 2032, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1313, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 1288, in _prepare_impl
+    self.session.flush()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4345, in flush
+    self._flush(objects)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4480, in _flush
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/session.py", line 4441, in _flush
+    flush_context.execute()
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1413, in execute
+    return meth(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1635, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1840, in _execute_context
+    return self._exec_single_context(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1980, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 2349, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/base.py", line 1961, in _exec_single_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/engine/default.py", line 944, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (telegram_id, full_name, username, registration_date, subscription_end, is_admin, notified) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1377895531, 'Кодики - школа для детей', 'Kodiki_school', '2025-12-03 13:56:09.865794', '2025-12-06 13:56:09.865263', 0, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-03 13:57:14 vpnvadim.aeza.network aiogram.dispatcher[120508] WARNING Received SIGTERM signal
+2025-12-03 13:57:14 vpnvadim.aeza.network aiogram.dispatcher[120508] INFO Polling stopped for bot @kodikivpn_bot id=8442093912 - 'KODIKI - Доступ к программам обучения'
+2025-12-03 13:57:14 vpnvadim.aeza.network aiogram.dispatcher[120508] INFO Polling stopped

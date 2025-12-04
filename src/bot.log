@@ -1,0 +1,15 @@
+nohup: ignoring input
+2025-12-03 11:12:34 vpnvadim.aeza.network database[120437] INFO ✅ Database tables created
+2025-12-03 11:12:34 vpnvadim.aeza.network __main__[120437] INFO ✅ Database initialized
+2025-12-03 11:12:34 vpnvadim.aeza.network __main__[120437] INFO ✅ Admin status updated in database
+2025-12-03 11:12:34 vpnvadim.aeza.network handlers[120437] INFO ✅ Handlers setup completed
+2025-12-03 11:12:34 vpnvadim.aeza.network __main__[120437] INFO ✅ Handlers registered
+2025-12-03 11:12:34 vpnvadim.aeza.network __main__[120437] INFO ℹ️  Starting bot...
+2025-12-03 11:12:34 vpnvadim.aeza.network aiogram.dispatcher[120437] INFO Start polling
+2025-12-03 11:12:34 vpnvadim.aeza.network aiogram.dispatcher[120437] INFO Run polling for bot @kodikivpn_bot id=8442093912 - 'KODIKI - Доступ к программам обучения'
+2025-12-03 11:12:39 vpnvadim.aeza.network aiogram.event[120437] INFO Update id=10803309 is not handled. Duration 1 ms by bot id=8442093912
+2025-12-03 11:12:41 vpnvadim.aeza.network aiogram.event[120437] INFO Update id=10803310 is not handled. Duration 1 ms by bot id=8442093912
+2025-12-03 11:12:47 vpnvadim.aeza.network aiogram.event[120437] INFO Update id=10803311 is handled. Duration 156 ms by bot id=8442093912
+2025-12-03 11:13:43 vpnvadim.aeza.network aiogram.dispatcher[120437] WARNING Received SIGTERM signal
+2025-12-03 11:13:43 vpnvadim.aeza.network aiogram.dispatcher[120437] INFO Polling stopped for bot @kodikivpn_bot id=8442093912 - 'KODIKI - Доступ к программам обучения'
+2025-12-03 11:13:43 vpnvadim.aeza.network aiogram.dispatcher[120437] INFO Polling stopped
